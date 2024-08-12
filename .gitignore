@@ -1,0 +1,13 @@
+
+# vscode settings
+./vscode/
+
+# executables
+*.exe
+*.out
+
+# compiled destination of the webpage
+/out
+
+# auto-generated file by code runner extension
+tempCodeRunnerFile.c
